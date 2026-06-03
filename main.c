@@ -62,7 +62,7 @@ break;
 case 6: dosyadanokuma(n,o);
 break;
 
-default : printf("hatali sayi girdiniz!!!");
+default : printf("\nhatali sayi girdiniz!!!\n");
 break;
 }
 }
